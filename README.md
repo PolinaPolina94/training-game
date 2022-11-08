@@ -1,5 +1,5 @@
 # Реализация небльшой training-game на js
 
-## Проверь совю реакцию
+## Проверь свою реакцию
 
 [Сыграть](https://polinapolina94.github.io/training-game/)
